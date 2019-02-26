@@ -52,3 +52,9 @@ assim por diante. Ou seja, o efeito da carta é cumulativo. O jogador que sofrer
 **CORINGA**: Tem o efeito de possibilitar ao jogador que a usar a escolha da cor da próxima carta a ser jogada. Caso o jogador 
 seguinte não tenha  a cor escolhida ou uma especial, ele deve comprar uma carta do baralho, se essa também não for da cor 
 escolhida ou especial, ele perde a vez, e assim por diante até que um dos jogadores tenha uma carta da cor escolhida ou especial.
+
+
+grupo :
+thiago tozo
+Helena Pato
+Matheus Schimieguel
